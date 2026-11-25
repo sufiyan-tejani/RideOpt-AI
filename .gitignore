@@ -1,0 +1,36 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local environment settings
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Streamlit secrets and local configuration
+.streamlit/secrets.toml
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+
+# Large raw data: keep the small curated dashboard assets tracked
+fhvhv_tripdata_*.parquet
+raw_data/
+raw_datasets/
