@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 
 # Project folder
-project_path = Path(__file__).resolve().parent.parent
+project_path = Path(__file__).resolve().parent
 
 # Page settings
 st.set_page_config(
