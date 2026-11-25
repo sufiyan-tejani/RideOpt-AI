@@ -1,5 +1,13 @@
 # 🚕 RideOpt AI — NYC Demand Forecasting & Fleet Allocation
 
+### 🌐 Live Demo
+
+🚀 **[Try RideOpt AI — Interactive Streamlit Dashboard](https://rideopt-ai-sufiyan.streamlit.app/)**
+
+Explore historical NYC taxi demand predictions, compare actual vs. predicted pickups, and analyze fleet allocation simulation results.
+
+📂 **[View Source Code](https://github.com/sufiyan-tejani/RideOpt-AI)**
+
 RideOpt AI is a machine-learning and simulation project that forecasts hourly ride-hailing pickup demand across New York City taxi zones and evaluates a distance-constrained strategy for repositioning a hypothetical taxi fleet.
 
 The dashboard lets users explore held-out demand forecasts and compare aggregate fleet-allocation simulation outcomes. **It is a historical-data dashboard, not a live dispatch system.**
